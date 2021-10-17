@@ -14,3 +14,7 @@ There are always personal preferences. The visual below is a good visualization 
   maintaining a high data-ink ratio,
   maintaining data integrity, and
   using length to show changes and differences rather than areas.
+Tidy dataset is a tabular dataset where:
+  each variable is a column
+  each observation is a row
+  each type of observational unit is a table
