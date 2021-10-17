@@ -7,3 +7,10 @@ Examples of chart junk you saw in this video include:
   Pictures surrounding the visual
   Shading or 3d components
   Ornamented chart axes
+
+We prefere using High-ink ratio
+There are always personal preferences. The visual below is a good visualization of this data from a design, following the principles of:
+  reducing chart junk,
+  maintaining a high data-ink ratio,
+  maintaining data integrity, and
+  using length to show changes and differences rather than areas.
