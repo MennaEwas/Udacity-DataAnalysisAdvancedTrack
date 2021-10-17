@@ -1,3 +1,9 @@
 If red colour is not important feature, so It is misleading.
 Don't use 3D pie chart if it is not needed. 
 In case the csv file is too large, you need to up
+Examples of chart junk you saw in this video include:
+  Heavy grid lines
+  Unnecessary text
+  Pictures surrounding the visual
+  Shading or 3d components
+  Ornamented chart axes
